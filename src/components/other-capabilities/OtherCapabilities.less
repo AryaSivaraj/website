@@ -1,0 +1,86 @@
+.other-capabilities-container {
+  & > ul {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 4%;
+    min-height: 60vh;
+    position: relative;
+    align-items: flex-end;
+    z-index: 1;
+    li {
+      color: #fff;
+      -webkit-text-stroke-width: 1;
+      -webkit-text-stroke-color: #fff;
+      font-family: "Poppins";
+      font-size: 1.42831rem;
+      font-style: normal;
+      font-weight: 250;
+      line-height: normal;
+      letter-spacing: 0.07144rem;
+
+      display: flex;
+      gap: 0.75rem;
+      img {
+        width: 3.875rem;
+        height: 3.54419rem;
+        border-radius: 0.25rem;
+      }
+
+      // width: 20.375rem;
+      // height: 20.375rem;
+      // border-radius: 30.3125rem;
+      // border: 2px solid #fff;
+      // display: flex;
+      // align-items: center;
+      // justify-content: center;
+      // transition: width 0.5s ease-in-out, height 0.5s ease-in-out;
+      // transform: translateY(-150px);
+
+      // &:hover {
+      // background-color: #fff;
+      // color: #000;
+      // width: 30.3125rem;
+      // height: 30.3125rem;
+      // transform: scale(1.5) !important;
+      // }
+
+      // @media screen and (max-width: 767px) {
+      //   width: 10.14781rem;
+      //   height: 10.14781rem;
+      //   font-size: 0.65794rem;
+      //   letter-spacing: 0.03288rem;
+      // }
+    }
+  }
+
+  .canvas-holder {
+    width: 70%;
+    height: 70vh;
+    // border: 1px solid #fff;
+    // border-radius: 0.5rem;
+    margin: 3rem auto 0;
+    @media screen and (max-width: 767px) {
+      margin-top: 2rem;
+      width: 100%;
+      height: 80vh;
+    }
+  }
+
+  .softwares {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 3rem;
+
+    @media screen and (max-width: 767px) {
+      gap: 0.5rem;
+    }
+    img {
+      width: 3.5rem;
+
+      @media screen and (max-width: 767px) {
+        width: 1.5rem;
+      }
+    }
+  }
+}

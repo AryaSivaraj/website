@@ -1,0 +1,42 @@
+[
+  {
+    "imgURL": "/website/assets/figma.png",
+    "altText": "figma"
+  },
+  {
+    "imgURL": "/website/assets/invision.png",
+    "altText": "invision"
+  },
+  {
+    "imgURL": "/website/assets/sketch.png",
+    "altText": "sketch"
+  },
+  {
+    "imgURL": "/website/assets/adobe-illustrator.png",
+    "altText": "adobe-illustrator"
+  },
+  {
+    "imgURL": "/website/assets/adobe-photoshop.png",
+    "altText": "adobe photoshop"
+  },
+  {
+    "imgURL": "/website/assets/adobe-premiere.png",
+    "altText": "adobe premiere"
+  },
+  {
+    "imgURL": "/website/assets/adobe-aftereffects.png",
+    "altText": "adobe aftereffects"
+  },
+  {
+    "imgURL": "/website/assets/adobe-animate.png",
+    "altText": "adobe animate"
+  },
+  {
+    "imgURL": "/website/assets/miro.png",
+    "altText": "miro"
+  },
+  {
+    "imgURL": "/website/assets/procreate.png",
+    "altText": "procreate"
+  }
+]
