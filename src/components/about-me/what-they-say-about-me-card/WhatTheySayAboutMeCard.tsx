@@ -28,7 +28,7 @@ function WhatTheySayAboutMeCard({
   }, []);
 
   const setText = () => {
-    const txt = text.slice(0, 700);
+    const txt = text.slice(0, 500);
     setVisibleText(txt);
   };
 

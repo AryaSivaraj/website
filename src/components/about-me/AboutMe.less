@@ -19,6 +19,11 @@
       display: flex;
       gap: 3rem;
       font-size: 1rem;
+	  align-items: flex-start;
+	  
+	  img2 {
+		max-width: 25.5rem;
+	  }
     }
     @media screen and (max-width: 767px) {
       img {
@@ -115,9 +120,18 @@
     display: grid;
     grid-template-columns: auto auto;
     grid-gap: 0.5rem;
+	justify-content: start;
 
     @media screen and (max-width: 767px) {
       margin-bottom: 1.5rem;
+    }
+	
+	@media screen and (min-width: 768px) {
+      max-width: 50%;
+	  
+	  img {
+		max-width: 12.5rem;
+	  }
     }
   }
 }

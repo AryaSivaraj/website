@@ -99,7 +99,7 @@ function AboutMe() {
         <section>
           <div className="about-me-wrapper">
             <div>
-              <img src="/website/assets/arya5.png" alt="arya" />
+              <img className="img2" src="/website/assets/arya5.png" alt="arya" />
             </div>
             <div className="mt-2">
               <div>Skills and Roles im capable of</div>
