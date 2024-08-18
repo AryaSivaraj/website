@@ -59,40 +59,25 @@ function AboutMe() {
               <div>Hello, My name is</div>
               <h2>ARYA SIVARAJ</h2>
               <p>
-                I am a visual designer currently based in Birmingham, United
-                Kingdom. My hometown is in the southern part of India, also
-                known as "God’s Own Country," Kerala.
+                I am a visual designer based in Birmingham, United Kingdom, originally from Kerala, India, often referred to as "God’s Own Country."
               </p>
 
               <p>
-                I was always a quiet and shy girl who was very interested in
-                drawing and crafting from a young age. After completing my
-                schooling, I pursued a Bachelor's in Animation & Graphic
-                Designing at St. Joseph's College of Communication. Following my
-                college education, I landed a position at the globally renowned
-                company Infosys as an Experience Designer, and within two years,
-                I was promoted to Senior Experience Designer.
+                From a young age, I was captivated by drawing and crafting. 
+                This passion led me to pursue a Bachelor's degree in Animation & Graphic Design at St. Joseph's College of Communication, MG University.
+                After graduating, I joined Infosys as an Experience Designer, where I was promoted to Senior Experience Designer within a year.
               </p>
 
               <p>
-                I've always aspired to pursue higher education abroad, which led
-                me to the United Kingdom for my Master's in UX Design. Finally,
-                I have graduated. The transition from Kerala to Birmingham was
-                indeed a journey filled with exciting and challenging
-                experiences.
+                Driven by a desire for further growth, I moved to the United Kingdom to complete a Master’s in UX Design.
+                The journey from Kerala to Birmingham has been both exciting and challenging, shaping my professional and personal growth.
               </p>
 
               <p>
-                I love working on identifying gaps and providing solutions. It
-                is during this process that creative solutions emerge, and
-                bringing these solutions to life in designs through iteration
-                and reiteration makes me feel truly alive.
-              </p>
-
-              <p>
-                Apart from designing, I enjoy making elements and designs
-                interact, giving them life.
-              </p>
+               I thrive on identifying gaps and crafting creative solutions through design iteration. This process of transforming ideas 
+                into interactive designs is what I find most fulfilling. In addition to my design work, I enjoy creating dynamic elements and 
+                giving designs a life of their own.
+              </p> 
             </div>
           </div>
         </section>
