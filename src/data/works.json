@@ -13,7 +13,7 @@
     "id": "work2",
     "workName": "Motozfiyr : Automobile Social Marketplace",
     "aboutWork": "Discover a UAE-based platform on Google Playstore and Apple Store, connecting enthusiasts to buy, sell, and indulge in dream vehicles. With seamless selling and user-friendly interface, elevate your automotive passion today.",
-    "skills": ["User Research", "Interface Design", "Prototype"],
+    "skills": ["User Research","Design System","Interface Design", "Prototype"],
     "thumbnail": "/website/assets/thumbnail2.png",
     "externalURL": "https://www.behance.net/gallery/138803011/Motozfyir-Social-Media-App-for-Car-enthusiats"
   },
@@ -29,7 +29,7 @@
     "id": "work4",
     "workName": "Solid Waste management Application",
     "aboutWork": "A UI/UX application for managing solid waste, addressing the principles of manage, reduce, reuse, and recycle. Simplifies waste management with intuitive features, promoting eco-friendly practices for a sustainable future.",
-    "skills": ["UX Research", "Wireframing & Visual Designing", "Prototyping"],
+    "skills": ["UX Research", "Wireframing & Visual Designing", "Prototyping","Video Walkthrough"],
     "thumbnail": "/website/assets/thumbnail4.png",
     "externalURL": " https://www.behance.net/gallery/109430261/UX-Case-Study-DOMINOS"
   },
