@@ -89,7 +89,7 @@ function Intro() {
       </div>
       <div className="brand-desc">
         <p>
-         Under the name 'Nirvannnah,' I create and share my artworks, and this is how I love to be known, Checkout 
+         I create and share my art as 'Nirvannnah,' my chosen identity. Checkout 
           <span className="highlight-text"> <a href="https://www.instagram.com/_nirvannnah_/" target="_blank"> 'Nirvannnah' </a> </span>
         </p>
         <div className="btn-container">
