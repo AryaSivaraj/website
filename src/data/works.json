@@ -39,8 +39,8 @@
   {
     "id": "work5",
     "workName": "A Waste management Application",
-    "aboutWork": "An application created to promote a decrease in sedentary behaviour and increase in physical activity for a better quality of life.",
-    "skills": ["User Research ", "Interface Design"],
+    "aboutWork": "A project focused on designing and evaluating a health-related application using user-centered design principles. The application aims to reduce sedentary behavior and increase physical activity, promoting a healthier lifestyle through industry and academia-standard techniques.",
+    "skills": ["Persona & Customer mapping","Competitor Analysis","Empathy Mapping","Wireframes","Information Architecture", "Interface Design"],
     "thumbnail": "/website/assets/thumbnail5.png",
     "externalURL": "https://www.behance.net/gallery/194998039/Application-for-people-with-Sedentary-Lifestyle"
   },
