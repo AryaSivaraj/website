@@ -78,7 +78,7 @@ function Intro() {
         <div className="text-container">
           <div className="name-wrapper">
             <h1>ARYA SIVARAJ</h1>
-            <div className="brand-name">Nirvannah</div>
+            <div className="brand-name">Nirvannnah</div>
           </div>
           <div className="about-brand">
             Passionate, <span className="highlight-text">Visual Designer</span>{" "}
