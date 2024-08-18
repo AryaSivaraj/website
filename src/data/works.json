@@ -2,12 +2,10 @@
   {
     "id": "work1",
     "workName": "Immersive Automotive Design Suite",
-    "aboutWork": "A cutting-edge VR project for automotive designers, inspired by Tilt Brush, offering immersive car design with Oculus and stylus support, backed by deep research into VR and industry tools.",
+    "aboutWork": "A cutting-edge VR project for automotive designers, inspired by Tilt Brush, enabling immersive car design with Oculus and stylus support. Includes a self-created introductory video and deep research into VR and industry tools.",
     "skills": [
       "User Research","Inclusive & Accessibilty", "Design System",
-      "Wireframe", "Visual Design & prototyping","User testing",
-      "Introductory Video creation"
-    ],
+      "Wireframe", "Visual Design & prototyping","User testing"],
     "thumbnail": "/website/assets/thumbnail1.png",
     "externalURL": "https://www.behance.net/gallery/194877241/Car-Designing-with-VR-Experience"
   },
