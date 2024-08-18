@@ -4,9 +4,8 @@
     "workName": "Immersive Automotive Design Suite",
     "aboutWork": "A project developed for automotive engineers and designers, enabling car design through VR with Oculus and stylus support. Inspired by Tilt Brush, it involved deep research into VR design, controllers, gestures, VR pointers, and the automotive design industry.",
     "skills": [
-      "User Research","Competitor Analysis","Inclusive & Accessibilty", "Design System",
-      "Wireframe & Visual Design",
-      "Prototyping","User testing",
+      "User Research","Inclusive & Accessibilty", "Design System",
+      "Wireframe", "Visual Design & prototyping","User testing",
       "Introductory Video creation"
     ],
     "thumbnail": "/website/assets/thumbnail1.png",
